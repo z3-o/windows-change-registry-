@@ -1,5 +1,6 @@
 # tweak change windows activekey
-- dark mode
+- SystemUsesLightTheme
+- AppsUseLightTheme
 - change wallpaper
 - small icon taskbar
 - enable Transparency
