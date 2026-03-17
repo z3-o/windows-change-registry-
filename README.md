@@ -1,2 +1,5 @@
-# wallpaper-change-registry
-change wallpaper windows without active key
+# tweak change windows activekey
+- dark mode
+- change wallpaper
+- small icon taskbar
+- enable Transparency
